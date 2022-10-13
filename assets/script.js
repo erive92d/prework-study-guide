@@ -52,3 +52,7 @@ listTopics(topics);
 console.log('Which topic should we study first?');
 selectTopics();
 
+var coding = "I love coding"
+
+console.log(coding);
+
